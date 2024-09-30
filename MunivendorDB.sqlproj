@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build">
+  <Sdk Name="Microsoft.Build.Sql" Version="0.1.12-preview" />
+  <PropertyGroup>
+    <Name>MunivendorDB</Name>
+    <ProjectGuid>{E0638E50-932F-4AC8-BFD4-ECCE07E37ACC}</ProjectGuid>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql150DatabaseSchemaProvider</DSP>
+    <ModelCollation>1033, CI</ModelCollation>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Stored Procedures" />
+    <Folder Include="Tables" />
+  </ItemGroup>
+  <Target Name="BeforeBuild">
+    <Delete Files="$(BaseIntermediateOutputPath)\project.assets.json" />
+  </Target>
+</Project>
