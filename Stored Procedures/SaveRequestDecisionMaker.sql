@@ -1,14 +1,4 @@
-USE [Munivendor]
-GO
-
-/****** Object:  StoredProcedure [dbo].[SaveRequestDecisionMaker]    Script Date: 9/30/2024 2:11:21 PM ******/
-SET ANSI_NULLS ON
-GO
-
-SET QUOTED_IDENTIFIER ON
-GO
-
--- =============================================
+ -- =============================================
 -- Author:		Michael Linetsky
 -- Create date: 7/24/2024
 -- Description:	Adds/Updates the decision maker for a request

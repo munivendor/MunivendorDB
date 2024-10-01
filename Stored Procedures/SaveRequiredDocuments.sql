@@ -1,13 +1,3 @@
-USE [Munivendor]
-GO
-
-/****** Object:  StoredProcedure [dbo].[SaveRequiredDocuments]    Script Date: 9/30/2024 2:11:37 PM ******/
-SET ANSI_NULLS ON
-GO
-
-SET QUOTED_IDENTIFIER ON
-GO
-
 CREATE PROCEDURE [dbo].[SaveRequiredDocuments]
     @RequestId INT,
     @DocumentTypeId INT

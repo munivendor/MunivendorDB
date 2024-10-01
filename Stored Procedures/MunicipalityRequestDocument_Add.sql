@@ -1,13 +1,3 @@
-USE [Munivendor]
-GO
-
-/****** Object:  StoredProcedure [dbo].[MunicipalityRequestDocument_Add]    Script Date: 9/30/2024 2:09:39 PM ******/
-SET ANSI_NULLS ON
-GO
-
-SET QUOTED_IDENTIFIER ON
-GO
-
 CREATE PROCEDURE [dbo].[MunicipalityRequestDocument_Add]
 	@RequestId INT,
     @DocumentName NVARCHAR(100),

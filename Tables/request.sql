@@ -1,13 +1,3 @@
-USE [Munivendor]
-GO
-
-/****** Object:  Table [dbo].[request]    Script Date: 9/26/2024 10:49:30 AM ******/
-SET ANSI_NULLS ON
-GO
-
-SET QUOTED_IDENTIFIER ON
-GO
-
 CREATE TABLE [dbo].[request](
 	[request_id] [int] IDENTITY(1,1) NOT NULL,
 	[category_id] [int] NOT NULL,

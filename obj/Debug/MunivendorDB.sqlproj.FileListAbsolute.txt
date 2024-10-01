@@ -1,0 +1,10 @@
+c:\Users\micha\Documents\MunivendorDB\bin\Debug\MunivendorDB.dacpac
+c:\Users\micha\Documents\MunivendorDB\obj\Debug\MunivendorDB.sqlproj.AssemblyReference.cache
+c:\Users\micha\Documents\MunivendorDB\obj\Debug\Model.xml
+c:\Users\micha\Documents\MunivendorDB\obj\Debug\refactor.xml
+c:\Users\micha\Documents\MunivendorDB\obj\Debug\postdeploy.sql
+c:\Users\micha\Documents\MunivendorDB\obj\Debug\predeploy.sql
+c:\Users\micha\Documents\MunivendorDB\obj\Debug\MunivendorDB.dll
+c:\Users\micha\Documents\MunivendorDB\obj\Debug\MunivendorDB.pdb
+c:\Users\micha\Documents\MunivendorDB\bin\Debug\MunivendorDB.dll
+c:\Users\micha\Documents\MunivendorDB\bin\Debug\MunivendorDB.pdb

@@ -1,13 +1,3 @@
-USE [Munivendor]
-GO
-
-/****** Object:  Table [dbo].[user]    Script Date: 9/26/2024 10:53:18 AM ******/
-SET ANSI_NULLS ON
-GO
-
-SET QUOTED_IDENTIFIER ON
-GO
-
 CREATE TABLE [dbo].[user](
 	[user_id] [int] NOT NULL,
 	[first_name] [varchar](100) NOT NULL,

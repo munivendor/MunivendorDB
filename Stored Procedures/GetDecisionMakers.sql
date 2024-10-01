@@ -1,12 +1,3 @@
-USE [Munivendor]
-GO
-
-/****** Object:  StoredProcedure [dbo].[GetDecisionMakers]    Script Date: 9/26/2024 4:34:43 PM ******/
-SET ANSI_NULLS ON
-GO
-
-SET QUOTED_IDENTIFIER ON
-GO
 
 -- =============================================
 -- Author:		Michael	Linetsky

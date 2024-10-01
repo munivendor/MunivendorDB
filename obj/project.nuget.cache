@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T0LaCfPlAqI=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\micha\\Documents\\MunivendorDB\\MunivendorDB.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
