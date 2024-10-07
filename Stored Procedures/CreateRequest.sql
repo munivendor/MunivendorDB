@@ -8,7 +8,7 @@ CREATE PROCEDURE [dbo].[CreateRequest]
 	@CategoryId INT,
 	@SubCategoryId INT,
 	@RequestTypeId INT,
-	@RequestName INT,
+	@RequestName VARCHAR (100),
 	@RequestStatusId INT,
 	@PublishDate DATETIME,
 	@OpenDate DATETIME  ,
